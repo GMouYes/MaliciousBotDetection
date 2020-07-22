@@ -1,6 +1,7 @@
-# MaliciousBotDetection
-Code for paper\
-"Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning""\
-Accepted SocInfo 2020\
+# Data samples
+## File descriptions
+There are 18 npy files and 1 readme file in this folder
 
-Still slowly updating materials, plan to finish updates at the end of July 2020
+All readme files are only sample files of the original file, containing 2 batches (256) for each split (train, test, valid)
+
+All sources of our dataset are publically available. Interested readers should refer to the original sources, download and preprocess them. We are providing the samples for better understanding the shapes of each file.

@@ -33,7 +33,7 @@ When everything finished, a general report will be printed in result.out. Extra 
 ```cmd
 python3 printHyper.py
 ```
-4. If you wish to tune the model on your own dataset. Then you may wish to change hypers in Gmou_Whole.py line 310 to line 336. As I have many cpu cores I set data loader workers as 8, feel free to change them to smaller numbers for your own case.
+4. If you wish to tune the model on your own dataset. Then you may wish to change hypers in GMou_Whole.py line 310 to line 336. As I have many cpu cores I set data loader workers as 8, feel free to change them to smaller numbers for your own case.
 
 5. So far I have tried very hard in writing clear documentations. Most things are straightforward if you fully read the code through. I know as always, devil lives in details, plus, there is never perfect code and mine is far from it. So if there's still sth unclear to you, feel free to contact me. gmou@wpi.edu
 
