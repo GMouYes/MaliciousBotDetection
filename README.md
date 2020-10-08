@@ -5,7 +5,7 @@ Code for paper
 
 Accepted SocInfo 2020
 
-Will update the pdf version of our paper, reference format as well as more details.
+Will update reference format as well as more details.
 
 ## File description
 We have 2 folders, Code for the whole model we proposed in the paper, Data for sample data from the original full dataset.
