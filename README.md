@@ -1,11 +1,7 @@
 # MaliciousBotDetection
 Code for paper
 
-"Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning""
-
-Accepted SocInfo 2020
-
-Will update reference format as well as more details.
+Mou G., Lee K. (2020) Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning. In: Aref S. et al. (eds) Social Informatics. SocInfo 2020. Lecture Notes in Computer Science, vol 12467. Springer, Cham. https://doi.org/10.1007/978-3-030-60975-7_17
 
 ## File description
 We have 2 folders, Code for the whole model we proposed in the paper, Data for sample data from the original full dataset.
