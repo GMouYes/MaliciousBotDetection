@@ -3,13 +3,13 @@ Code for paper
 
 Mou G., Lee K. (2020) Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning. In: Aref S. et al. (eds) Social Informatics. SocInfo 2020. Lecture Notes in Computer Science, vol 12467. Springer, Cham. https://doi.org/10.1007/978-3-030-60975-7_17
 
-@inproceedings{mou2020malicious,
-  title={Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning},
-  author={Mou, Guanyi and Lee, Kyumin},
-  booktitle={International Conference on Social Informatics},
-  pages={220--236},
-  year={2020},
-  organization={Springer}
+@inproceedings{mou2020malicious,<br>
+  title={Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning},<br>
+  author={Mou, Guanyi and Lee, Kyumin},<br>
+  booktitle={International Conference on Social Informatics},<br>
+  pages={220--236},<br>
+  year={2020},<br>
+  organization={Springer}<br>
 }
 
 ## File description
