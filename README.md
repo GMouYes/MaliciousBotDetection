@@ -1,5 +1,5 @@
 # MaliciousBotDetection
-Code for paper
+Update to myself: should consider rewriting the code to make it more elegant and efficient given time
 
 Mou G., Lee K. (2020) Malicious Bot Detection in Online Social Networks: Arming Handcrafted Features with Deep Learning. In: Aref S. et al. (eds) Social Informatics. SocInfo 2020. Lecture Notes in Computer Science, vol 12467. Springer, Cham. https://doi.org/10.1007/978-3-030-60975-7_17
 
